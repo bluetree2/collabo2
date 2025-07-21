@@ -7,9 +7,5 @@ public class Main {
         System.out.println("Hello Java");
         System.out.println("Hello React");
         System.out.println("Hello Spring");
-
-        System.out.println("Hello World");
-        System.out.println("Hello World");
-        System.out.println("Hello World");
     }
 }

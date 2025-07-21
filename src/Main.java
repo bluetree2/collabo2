@@ -17,5 +17,9 @@ public class Main {
         System.out.println("Hello World");
         System.out.println("Hello World");
         System.out.println("Hello World");
+
+        for (int i = 0; i < 5; i++) {
+            System.out.println("random" + Math.random());
+        }
     }
 }

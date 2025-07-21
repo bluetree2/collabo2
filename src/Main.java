@@ -7,6 +7,12 @@ public class Main {
         System.out.println("Hello Java");
         System.out.println("Hello React");
         System.out.println("Hello Spring");
+        for (int i = 0; i < 5; i++) {
+            for (int j = i; j < 5; j++) {
+                System.out.print("*");
+            }
+            System.out.println();
+        }
 
         System.out.println("Hello World");
         System.out.println("Hello World");

@@ -22,5 +22,10 @@ public class Main {
             System.out.println("random" + Math.random());
         }
 
+        System.out.println("Hello World123");
+        System.out.println("Hello World123");
+        System.out.println("Hello World123");
+        System.out.println("Hello World123");
+
     }
 }

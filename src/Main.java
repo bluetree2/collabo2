@@ -18,6 +18,10 @@ public class Main {
         System.out.println("Hello World");
         System.out.println("Hello World");
 
+        for (int i = 0; i < 5; i++) {
+            System.out.println("random" + Math.random());
+        }
+
         System.out.println("컨디션 곱창이라 집가려고 했는데 조짜면 집에 못가네 . . .");
 
     }

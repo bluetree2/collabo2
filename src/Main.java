@@ -11,5 +11,10 @@ public class Main {
             // 언제든 <shortcut actionId="ToggleLineBreakpoint"/>을(를) 눌러 중단점을 더 추가할 수 있습니다.
             System.out.println("i = " + i);
         }
+
+        System.out.println("수정 수정 수정 수정");
+        for (int i = 1; i <= 5; i++) {
+            System.out.println("hello" + Math.random() * 10);
+        }
     }
 }
